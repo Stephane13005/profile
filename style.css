@@ -52,6 +52,9 @@ li i {
 color: blue;
 font-size: 50px;
 }
+li i:hover{
+color:black;
+}
 
 /*Media Queries*/
 
